@@ -4,7 +4,7 @@
 This project was created for the purposes of learnig CSS.
 
 ## SAMPLE RESULTS
-[![https://github.com/geomird/happy_holidays](images/sample.png)](https://github.com/geomird/happy_holidays)
+[![https://github.com/geomird/happy_holidays](images/sample.png)](https://geomird.github.io/happy_holidays/)
 
 ## SOURCES and CREDITS.
 
